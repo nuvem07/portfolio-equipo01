@@ -1,0 +1,17 @@
+/* Estilos básicos */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('mi_imagen_fondo.jpg'); /* Reemplaza por tu imagen de fondo */
+    background-size: cover;
+    background-position: center;
+}
+
+/* Encabezado */
+header {
+    background-color: #ff6600; /* Naranja */
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
